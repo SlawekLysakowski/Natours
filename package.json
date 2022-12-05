@@ -63,7 +63,7 @@
     "url": "https://github.com/SlawekLysakowski/Natours/issues"
   },
   "engines": {
-    "node": ">=10.0.0"
+    "node": ">=18.x"
   },
   "homepage": "https://github.com/SlawekLysakowski/Natours#readme"
 }
